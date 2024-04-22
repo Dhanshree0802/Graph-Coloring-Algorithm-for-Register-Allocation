@@ -1,7 +1,7 @@
 # Graph-Coloring-Algorithm-for-Register-Allocation 
 
 ##Team Members
-- Dhanashree Dharpure ([Dhanshree0802](https://github.com/Dhanshree0802))
+- Dhanshree Dharpure ([Dhanshree0802](https://github.com/Dhanshree0802))
 - Mrunmayee Kurhade ([mrunmayeek25](https://github.com/mrunmayeek25))
 - Akshat Shah ([akshatS2003](https://github.com/akshatS2003))
 - Pranav Rathi([pvrPranavRathi](https://github.com/pvrPranavRathi))
